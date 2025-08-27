@@ -1,1 +1,2 @@
-# Max-Farren
+# Max Farren
+Soy Maximiliano Farren, Ingeniero Industrial y actualmente cursando el Magíster en Data Science en la Universidad de Chile. Me apasiona la ingeniería y la ciencia de datos, especialmente el Machine Learning. En mi tiempo libre, disfruto de los deportes de contacto, como MMA, Jiu-Jitsu, Boxeo, Muay Thai y Kickboxing Además, soy un gran fanático del Real Madrid y me fascina el análisis y la aplicación de datos en diferentes áreas.
