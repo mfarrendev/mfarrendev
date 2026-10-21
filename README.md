@@ -59,12 +59,22 @@ También: Claude API y Claude Code, n8n, LaTeX.
 | [multitenant-base-por-empresa](https://github.com/mfarrendev/multitenant-base-por-empresa) | SaaS multi-tenant con una base Postgres por empresa: roles mínimos, migraciones con advisory lock, guardia de identidad y app Next.js por subdominio. |
 | [pipeline-reanudable](https://github.com/mfarrendev/pipeline-reanudable) | Pipelines por pasos con estado en disco: reanuda tras una caída sin volver a pagar, dependencias en paralelo, reintentos y tope de gasto. |
 | [chile-montos-fechas-rut](https://github.com/mfarrendev/chile-montos-fechas-rut) | Montos en formato chileno sin errores de escala, días hábiles en hora de Santiago con feriados legales, y RUT. |
+| [api-autenticacion](https://github.com/mfarrendev/api-autenticacion) | API REST con autenticación segura y un modelo de amenazas donde cada ataque tiene su defensa y su prueba. |
+| [diff-esquemas-postgres](https://github.com/mfarrendev/diff-esquemas-postgres) | Compara dos esquemas de Postgres y genera la migración ordenada, con el riesgo de cada cambio. |
+| [cola-trabajos-postgres](https://github.com/mfarrendev/cola-trabajos-postgres) | Cola de trabajos en segundo plano sobre Postgres: SKIP LOCKED, reintentos, cron y panel. |
+| [limitador-de-tasa](https://github.com/mfarrendev/limitador-de-tasa) | Rate limiting con cinco algoritmos, en memoria o Redis, para Node, Express y Next.js. |
+| [motor-de-flujos](https://github.com/mfarrendev/motor-de-flujos) | Flujos de aprobación como máquina de estados, con historial encadenado por hashes. |
 | [autoevaluacion-laravel-demo](https://github.com/mfarrendev/autoevaluacion-laravel-demo) | Cuestionario con dos rutas y un solo algoritmo de puntaje, en Laravel y MySQL. |
 
 **IA, datos y optimización**
 
 | | |
 |---|---|
+| [rag-con-citas](https://github.com/mfarrendev/rag-con-citas) | Preguntas sobre documentos propios donde cada oración cita su párrafo, con evaluación de recuperación. |
+| [ruteo-vehiculos](https://github.com/mfarrendev/ruteo-vehiculos) | Ruteo de flotas con ventanas de tiempo: Clarke-Wright, búsqueda local y ALNS. [Demo](https://mfarrendev.github.io/ruteo-vehiculos/) |
+| [vision-desde-cero](https://github.com/mfarrendev/vision-desde-cero) | Visión por computador sin OpenCV: Canny, Otsu, Hough y Harris. [Demo](https://mfarrendev.github.io/vision-desde-cero/) |
+| [anomalias-series-tiempo](https://github.com/mfarrendev/anomalias-series-tiempo) | Detección de anomalías en series de tiempo con STL, ESD, CUSUM e Isolation Forest. |
+| [recomendador](https://github.com/mfarrendev/recomendador) | Recomendación con ALS, BPR e item-kNN, arranque en frío y explicaciones. |
 | [verificador-citas](https://github.com/mfarrendev/verificador-citas) | Juez determinista para texto generado por IA: citas literales, cifras con respaldo y links vivos. |
 | [optimizador-licitaciones](https://github.com/mfarrendev/optimizador-licitaciones) | Qué licitaciones postular y a qué precio: branch and bound, recocido simulado y regresión logística. |
 | [agente-compras-publicas](https://github.com/mfarrendev/agente-compras-publicas) | Agente que rastrea compras públicas, decide con IA cuáles convienen y arma la carpeta para revisión humana. |
