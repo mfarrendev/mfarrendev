@@ -13,9 +13,7 @@ que se puede medir.
 - **Digitalización de empresas**: llevar procesos de planillas y correos a sistemas que se usan
   todos los días.
 
-**Hoy.** Cofundador de [valiu](https://valiu.cl), donde desarrollo un CRM para consultoras de
-innovación, incubadoras y universidades: panel web, modelo de datos, informes generados con LLM en
-los que cada afirmación lleva su fuente, seguridad y despliegue en la nube.
+**Hoy.** Cofundador de [valiu](https://valiu.cl), con distintas líneas de negocio.
 
 **Antes.** Automatización con IA en una agencia de marketing digital (Dominant Media), machine
 learning y optimización de procesos en una consultora de innovación (Zenit), ingeniería y análisis
