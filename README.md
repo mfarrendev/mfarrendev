@@ -52,6 +52,18 @@ También: Claude API y Claude Code, n8n, LaTeX.
 
 ## Proyectos
 
+Esta cuenta es nueva: perdí el acceso a la anterior, así que estoy subiendo aquí los proyectos de
+una vez.
+
+**Automatización de procesos**
+
+| | |
+|---|---|
+| [levantamiento-procesos](https://github.com/mfarrendev/levantamiento-procesos) | Agente que levanta procesos desde entrevistas, verifica cada dolor contra su cita y propone automatizaciones con business case y flujos de n8n. |
+| [pyme-copilot](https://github.com/mfarrendev/pyme-copilot) | Agente que supervisa facturas, presupuestos y tareas de una pyme, responde con fuentes y prepara acciones que un responsable aprueba. |
+| [pyme-followup](https://github.com/mfarrendev/pyme-followup) | Seguimiento de solicitudes de presupuesto: confirmación por correo, recordatorios sin duplicados y panel. |
+| [datawatch-enterprise-2025](https://github.com/mfarrendev/datawatch-enterprise-2025) | Monitoreo de métricas de e-commerce: detecta anomalías y un agente investiga las causas consultando la base en modo solo lectura. |
+
 **Software**
 
 | | |
